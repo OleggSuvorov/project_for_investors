@@ -1,0 +1,381 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+ font-family: Arial Narrow;
+}
+.container-fluid{
+	background: url(Nature-Night-Sky-Stars-Blurred-Light-Show-Mountains-WallpapersByte-com-2560x1600.jpg);
+	height: 100vh;
+	text-align: center;
+	font-size: 20pt;
+}
+.icons3{
+	color: blue;
+	size: 25px;
+}
+.icon3{
+	color: blue;
+}
+.text1{
+	color: #909090;
+	text-align: center;
+	font-weight: 600;
+	margin-top: 150px;
+}
+.text2{
+	color: #909090;
+	text-align: center;
+	font-size: 10pt;
+}
+.container-fluid2{
+	height: 100vh;
+	text-align: center;
+	font-size: 13pt;
+	margin-top: 1000px;
+	color: silver;
+}
+.largetext{
+	color: white;
+	size: 100px;
+	margin-top: 115px;
+	text-decoration: underline;
+	text-align: left;
+}
+.button{
+	text-align: left;
+	margin-top: 50px;
+	color: blue;
+	border-radius: 15px;
+}
+.text3{
+	color: black;
+	font-weight: 800;
+}
+.text4{
+	color: black;
+	font-weight: 800;
+	text-align: center;
+}
+.text5{
+	color: #acacac;
+	text-align: right;
+}
+.text6{
+	color: #acacac;
+	text-align: center;
+
+}
+.text7{
+	color: black;
+	font-weight: 800;
+	text-align: right;
+	margin-top: 25px;
+	text-align: center;
+}
+.text8{
+	color: black;
+	font-weight: 800;
+	text-align: center;
+	margin-top: 25px;
+}
+.text9{
+	color: #acacac;
+	text-align: left;
+}
+.text10{
+	color: black;
+	font-weight: 800;
+	text-align: center;
+	margin-top: 25px;
+}
+.text11{
+	color: #acacac;
+	text-align: right;
+}
+.text12{
+	color: black;
+	font-weight: 800;
+	text-align: center;
+	margin-top: 25px;
+}
+.text13{
+	color: #acacac;
+	text-align: center;
+}
+.text14{
+	color: black;
+	font-weight: 800;
+	text-align: center;
+	margin-top: 25px;
+}
+.text15{
+	color: #acacac;
+	text-align: left;
+}
+.text16{
+	font-weight: 800;
+	font-size: 15pt;
+	text-align: center;
+	margin-top: 180px;
+	color: black;
+}
+.text17{
+	text-align: center;
+	color: silver;
+}
+.text18{
+	font-weight: 800;
+	font-size: 15pt;
+	text-align: center;
+	margin-top: 25px;
+	color: black;
+	border-radius: 3px;
+}
+.text19{
+	color: silver;
+	text-align: center;
+}
+.text20{
+	color: black;
+	font-weight: 800;
+	font-size: 20pt;
+	text-decoration: underline;
+}
+.text21{
+	font-size: 15pt;
+	border: solid silver;
+	display: inline-block;
+	color: black;
+}
+.text22{
+	font-weight: 800;
+	font-size: 15pt;
+	text-align: center;
+	margin-top: 25px;
+	color: black;
+	border-radius: 3px;
+}
+.text23{
+	color: silver;
+	text-align: center;
+}
+.text24{
+	color: black;
+	font-weight: 800;
+	font-size: 20pt;
+	text-decoration: underline;
+}
+.text25{
+	font-size: 15pt;
+	border: solid silver;
+	display: inline-block;
+	color: black;
+}
+.text26{
+	font-weight: 800;
+	font-size: 15pt;
+	text-align: center;
+	margin-top: 25px;
+	color: black;
+	border-radius: 3px;
+}
+.text27{
+	color: silver;
+	text-align: center;
+}
+.text28{
+	color: black;
+	font-weight: 800;
+	font-size: 20pt;
+	text-decoration: underline;
+}
+.text29{
+	font-size: 15pt;
+	border: solid silver;
+	display: inline-block;
+	color: black;
+}
+.text30{
+	color: black;
+	font-weight: 800;
+	margin-top: 300px;
+	text-align: center;
+}
+.text31{
+	column-rule-color: silver;
+	text-align: center;
+}
+.img1{
+	text-align: center;
+	margin-top: 100px;
+	position: relative;
+}
+#text{
+	position: absolute;
+	top: 180px;
+	left: 220px;
+	color: white;
+}
+#text1{
+	position: absolute;
+	top: 280px;
+	left: 235px;
+	color: white;
+	font-weight: 0;
+}
+.text32{
+	text-align: center;
+	color: black;
+	font-weight: 800;
+	margin-top: 20px;
+}
+.text33{
+	text-align: center;
+	color: silver;	
+}
+.text34{
+	text-align: center;
+	color: black;
+	margin-top: 20px;
+	font-weight: 800;
+}
+.img2{
+	text-align: center;
+	margin-top: 100px;
+	position: relative;
+}
+.text35{
+	text-align: center;
+	color: silver;
+}
+.img3{
+	text-align: center;
+	margin-top: 100px;
+	position: relative;
+}
+.text36{
+	text-align: center;
+	color: black;
+	margin-top: 20px;
+	font-weight: 800;
+}
+.text37{
+	text-align: center;
+	color: silver;
+}
+#text2{
+	position: absolute;
+	top: 280px;
+	left: 235px;
+	color: white;
+}
+#text3{
+	position: absolute;
+	top: 205px;
+	left: 235px;
+	color: white;
+}
+.text38{
+	text-align: center;
+	color: black;
+	margin-top: 20px;
+	font-weight: 800;
+}
+.text39{
+	text-align: center;
+	color: silver;
+}
+.img4{
+	text-align: center;
+	margin-top: 25px;
+}
+.text40{
+	text-align: center;
+	color: black;
+	margin-top: 20px;
+	font-weight: 800;
+}
+.text41{
+	text-align: center;
+	color: silver;
+}
+#text4{
+	position: absolute;
+	top: 205px;
+	left: 235px;
+	color: white;
+}
+.img5{
+	margin-top: 25px;
+}
+.img6{
+	margin-top: 25px;
+}
+.text42{
+	text-align: center;
+	color: black;
+	margin-top: 20px;
+	font-weight: 800;
+}
+.text43{
+	text-align: center;
+	color: silver;
+}
+#text5{
+	position: absolute;
+	top: 205px;
+	left: 235px;
+	color: white;
+}
+.ourteam{
+	font-weight: 800;
+	color: black;
+	text-align: center;
+	margin-top: 300px;
+}
+.orteam2{
+	color: silver;
+}
+.col-md-5{
+	text-align: center;
+}
+.container-fluid10{
+	text-align: center;
+}
+ input:valid + span:after {
+    content: url(images/ok.png); 
+    padding-left: 5px;
+   }
+   input:invalid + span:after {
+    content: url(images/nook.png);
+    padding-left: 5px;
+   }
+   input[type="number"] {
+    margin-right: -3px;
+   }
+.sign{
+	color: black;
+	font-weight: 800;
+}
+.form{
+	text-align: center;
+	top: 300px;
+	background-color: black;
+	margin-top: 300px;
+}
+.uldezigner{
+	text-align: center;
+	color: silver;
+}
+.icons2{
+	color: black;
+	display: inline-block;
+}
+.container-fluid10{
+	margin-top: 100px;
+}  
+.jhondoe{
+	color: black;
+} 
